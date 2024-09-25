@@ -8,7 +8,7 @@
 
 ## Uso
 
-**Este programa trae 2 archivos, el primero es el programada que se encargar de encritar siguiendo una ruta la cual puedes modificar a tu gusto y el segundo se encarga de desencriptar lo encriptado anteriormente.**
+**Este programa trae 2 archivos, el primero es el que se encarga de encritar siguiendo una ruta la cual puedes modificar a tu gusto y el segundo desencripta lo encriptado anteriormente.**
 
 
 
