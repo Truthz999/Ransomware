@@ -1,0 +1,2 @@
+1) cryptography (pip install cryptography)
+2) os
