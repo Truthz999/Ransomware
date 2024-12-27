@@ -20,7 +20,7 @@ def decrypt(items, key):
 
 if __name__ == "__main__":
 
-    archivos = 'C:\\Users\\Truth\\Desktop\\Ataque\\Archivos' # Expecificamos la ruta de lo que queremos encriptar
+    archivos = 'C:\\Users\\Truth\\Desktop\\Ataque\\Archivos' # Expecificamos la ruta de lo que queremos desencriptar
     os. remove(archivos+"\\"+"readme.txt") 
     items = os.listdir(archivos) 
     archivos_2 = [archivos+"\\"+x for x in items]
